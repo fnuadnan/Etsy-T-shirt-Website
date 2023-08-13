@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This project was my internship project and below are the step by step by my mentor;
+
 Use JavaScript's `forEach`, `filter`, `map`, and `reduce` methods to implement the features outlined below. Write your code in the four empty functions defined in `script.js`. They've already been connected to the logic the rest of the team has written.
 
 
